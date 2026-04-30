@@ -1,0 +1,19 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1775740507537",
+      "name": "Ollama",
+      "apiKey": "",
+      "url": "http://navibi-openwebui-llama:11434",
+      "type": "ollama",
+      "model": "qwen3.5:27b",
+      "availableModels": [
+        "qwen3.5:27b",
+        "gemma4:26b"
+      ]
+    }
+  ]
+}

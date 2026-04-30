@@ -1,0 +1,53 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "TJxda0ggOz3mMa69CS2JH",
+      "name": "Estratégia",
+      "value": "#a69c36"
+    },
+    {
+      "id": "xKtnlT274MHHgP2vjrhed",
+      "name": "Agilidade Negócios",
+      "value": "#bdbdbd"
+    },
+    {
+      "id": "oQm3xY-noKalm_hnePOLU",
+      "name": "Pessoas ",
+      "value": "#ba7878"
+    },
+    {
+      "id": "Ah2gFD11xcLmDEZ45JAzi",
+      "name": "Vendas Growth",
+      "value": "#3fa64b"
+    },
+    {
+      "id": "S-t95reCsKpKkYxWHBjy6",
+      "name": "Pessoas Exponencias",
+      "value": "#bf41e1"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "01 - NaviBI - ExA Hive/1 - Estratégia Executiva",
+      "color": "TJxda0ggOz3mMa69CS2JH"
+    },
+    {
+      "path": "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais",
+      "color": "S-t95reCsKpKkYxWHBjy6"
+    },
+    {
+      "path": "01 - NaviBI - ExA Hive/3 - Agilidade de Negocios",
+      "color": "xKtnlT274MHHgP2vjrhed"
+    },
+    {
+      "path": "01 - NaviBI - ExA Hive/4 - Vendas Growth",
+      "color": "Ah2gFD11xcLmDEZ45JAzi"
+    },
+    {
+      "path": "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Modelo de Negócios.md",
+      "color": "TJxda0ggOz3mMa69CS2JH"
+    }
+  ]
+}

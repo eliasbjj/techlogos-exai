@@ -1,0 +1,125 @@
+{
+	"nodes":[
+		{"id":"d67be544b71fb845","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Tatico/🎯OKR-2026-OKR-Tático-2- Nome da Meta.md","x":-1260,"y":920,"width":720,"height":720,"color":"5"},
+		{"id":"1ab6b961b72c2964","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Tatico/🎯OKR-2026-OKR-Tático-1- Nome da Meta.md","x":-2140,"y":920,"width":760,"height":680,"color":"5"},
+		{"id":"0adecc76bbe98218","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Tatico/🎯OKR-2026-OKR-Tático-3- Nome da Meta.md","x":-500,"y":920,"width":720,"height":820,"color":"5"},
+		{"id":"9f97d37a595ad8ea","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Estrategico/🎯OKR-2026-OKR-Estratégico-2- Nome da Meta.md","x":-900,"y":-160,"width":760,"height":900,"color":"3"},
+		{"id":"83682fa563e8053c","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Tatico/🎯OKR-2026-OKR-Tático-4- Nome da Meta.md","x":400,"y":930,"width":640,"height":800,"color":"5"},
+		{"id":"4caa94ce584d0f86","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Estrategico/🎯OKR-2026-OKR-Estratégico-3- Nome da Meta.md","x":80,"y":-160,"width":740,"height":900,"color":"3"},
+		{
+			"id":"ef4463c892806fbe",
+			"type":"text",
+			"text":"**♕OKR Estratégico**",
+			"styleAttributes":{},
+			"x":-650,
+			"y":-400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"49a8a259911671c0",
+			"type":"text",
+			"text":"**♔OKR Metas 2026**",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":null
+			},
+			"x":-650,
+			"y":-520,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"0a5707c06ef0e268","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Estrategico/🎯OKR-2026-OKR-Estratégico- 1 - Nome da Meta.md","x":-1840,"y":-120,"width":700,"height":900,"color":"3"}
+	],
+	"edges":[
+		{
+			"id":"e85e48f7d81b2146",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49a8a259911671c0",
+			"fromSide":"bottom",
+			"toNode":"ef4463c892806fbe",
+			"toSide":"top"
+		},
+		{
+			"id":"37236b41afc8b8c6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ef4463c892806fbe",
+			"fromSide":"bottom",
+			"toNode":"0a5707c06ef0e268",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"8a2b3d7f7a982373",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ef4463c892806fbe",
+			"fromSide":"bottom",
+			"toNode":"9f97d37a595ad8ea",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"bb20f22278ad2c7c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ef4463c892806fbe",
+			"fromSide":"bottom",
+			"toNode":"4caa94ce584d0f86",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"6ce965d14814d5e6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4caa94ce584d0f86",
+			"fromSide":"bottom",
+			"toNode":"83682fa563e8053c",
+			"toSide":"top",
+			"label":"♖OKR Tático"
+		},
+		{
+			"id":"929d6320627c14ad",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9f97d37a595ad8ea",
+			"fromSide":"bottom",
+			"toNode":"d67be544b71fb845",
+			"toSide":"top",
+			"label":"♖OKR Tático"
+		},
+		{
+			"id":"72acdfc82b3b4316",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0a5707c06ef0e268",
+			"fromSide":"bottom",
+			"toNode":"1ab6b961b72c2964",
+			"toSide":"top",
+			"label":"♖OKR Tático"
+		},
+		{
+			"id":"94513f76b3d8d0ce",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9f97d37a595ad8ea",
+			"fromSide":"bottom",
+			"toNode":"0adecc76bbe98218",
+			"toSide":"top",
+			"label":"♖OKR Tático"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

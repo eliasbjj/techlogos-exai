@@ -1,0 +1,26 @@
+{
+  "large-language-models:open-LLM-widget-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "local-gpt:context-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "local-gpt:local-gpt-action-palette": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

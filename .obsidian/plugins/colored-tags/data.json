@@ -1,0 +1,42 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "ai": 23,
+    "analise-executiva": 24,
+    "ansoff": 25,
+    "bcg": 26,
+    "business-model-canvas": 27,
+    "canvas": 28,
+    "cultura": 29,
+    "diagnostico": 30,
+    "direcao-estrategica": 31,
+    "estilos-culturais": 32,
+    "estrategia": 33,
+    "metas": 19,
+    "modelo-de-negocios": 34,
+    "okr": 20,
+    "pestel": 35,
+    "pet": 36,
+    "planejamento": 21,
+    "planejamento-estrategico": 22,
+    "porter": 37,
+    "portfolio": 38,
+    "produto": 39,
+    "produtos": 40,
+    "proposta-de-valor": 41,
+    "servicos": 42,
+    "swot": 43,
+    "tows": 44
+  },
+  "tagColors": {},
+  "_version": 4
+}

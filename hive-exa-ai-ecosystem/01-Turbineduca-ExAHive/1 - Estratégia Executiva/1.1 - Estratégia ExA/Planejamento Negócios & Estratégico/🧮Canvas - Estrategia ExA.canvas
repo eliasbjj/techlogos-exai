@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"675339c46544edf3","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Matriz SWOT.md","x":-560,"y":-340,"width":680,"height":580,"color":"#816e13"},
+		{"id":"e6d18dc209e7b384","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Analise Produtos e Serviços.md","x":160,"y":-340,"width":860,"height":660,"color":"#00779e"},
+		{"id":"4215544dbd41fa64","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Análise Pestel.md","x":-560,"y":360,"width":680,"height":760,"color":"#9b8036"},
+		{"id":"01d8cb041fca3c36","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - 5 Forças Porter.md","x":160,"y":510,"width":860,"height":460},
+		{"id":"dbea69e8f0465f29","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/♕PET-2026 - Direção Estratégica.md","x":-1220,"y":-340,"width":600,"height":1000,"color":"#bdb232"},
+		{"id":"0bf8b666971f67c9","type":"text","text":"# **🧭Direção Estratégica**","x":955,"y":-920,"width":250,"height":100,"color":"#ffa200"},
+		{"id":"8a9f927f17c8edea","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🎭PET - Estilo Cultural.md","x":1080,"y":-340,"width":780,"height":1080,"color":"#915959"},
+		{"id":"794d607f241a9c2d","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Modelo de Negócios.md","x":1920,"y":-340,"width":960,"height":1500,"color":"#a99f2d"},
+		{"id":"07304bb8d438a5c2","type":"file","file":"hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Proposta Valor.md","x":1920,"y":1240,"width":960,"height":1480,"color":"3"}
+	],
+	"edges":[
+		{"id":"8e78a075149ac8d8","fromNode":"0bf8b666971f67c9","fromSide":"bottom","toNode":"dbea69e8f0465f29","toSide":"top","color":"3","label":"❤️Inspiração"},
+		{"id":"516719e9c532dadf","fromNode":"0bf8b666971f67c9","fromSide":"bottom","toNode":"675339c46544edf3","toSide":"top","color":"3","label":"📦Diagnóstico"},
+		{"id":"7ae520bbc0c9e907","fromNode":"0bf8b666971f67c9","fromSide":"bottom","toNode":"e6d18dc209e7b384","toSide":"top","color":"5","label":"📦Produtos"},
+		{"id":"df74d1c21895127b","fromNode":"0bf8b666971f67c9","fromSide":"bottom","toNode":"8a9f927f17c8edea","toSide":"top","color":"#795858","label":"🎭Nossa Cultura"},
+		{"id":"9863c1f76bba44e1","fromNode":"675339c46544edf3","fromSide":"bottom","toNode":"4215544dbd41fa64","toSide":"top"},
+		{"id":"a125e111dbd42f99","fromNode":"4215544dbd41fa64","fromSide":"right","toNode":"01d8cb041fca3c36","toSide":"left"},
+		{"id":"9b5e573ca8d55ed8","fromNode":"0bf8b666971f67c9","fromSide":"bottom","toNode":"794d607f241a9c2d","toSide":"top","label":"🏢Modelo de Negócios"},
+		{"id":"57484d9c898d3ada","fromNode":"794d607f241a9c2d","fromSide":"bottom","toNode":"07304bb8d438a5c2","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

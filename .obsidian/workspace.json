@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "8ddb4377c891c53c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6295569de887976d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8390eab6ee557d22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+                "viewState": {
+                  "x": -550,
+                  "y": 610,
+                  "zoom": -0.9795242796205889
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "🧮Dashboard-OKR-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec4b1a2a5f1ee409",
+    "type": "split",
+    "children": [
+      {
+        "id": "376287b1799ada06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e00e2980e2ad159",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6bb1fcd54781e931",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dcd738b4cb3356e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 442.5
+  },
+  "right": {
+    "id": "d8b04cabd94dcca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a907cab694f339c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6756767fef8dde46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 🧮Dashboard-OKR-2026"
+            }
+          },
+          {
+            "id": "0686c3a879a3a817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 🧮Dashboard-OKR-2026"
+            }
+          },
+          {
+            "id": "b7768806ef5a1a26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5f8c8826e127a0ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8366221551380064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Proposta Valor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 🧭PET - Proposta Valor"
+            }
+          },
+          {
+            "id": "c17da6e22dbb3b17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 663.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "card-board:CardBoard": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8390eab6ee557d22",
+  "lastOpenFiles": [
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧮Canvas - Estrategia ExA.canvas",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/📊OKR-2026-OKR-Estratégica-Lista.md",
+    "hive-exa-ai-ecosystem/Strategy Execution - NaviBI.md",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Estrategico/🎯OKR-2026-OKR-Estratégico- 1 - Nome da Meta.md",
+    "01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Estrategico",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva",
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive",
+    "hive-exa-ai-ecosystem",
+    "Bem-vindo.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.3 - Governança Corporativa/Sociedade",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.3 - Governança Corporativa/Seguranca-Juridica",
+    "Strategy Execution - NaviBI.md",
+    "- teste CARTAO.md",
+    "- teste CARTAO 1.md",
+    "Assets/templates/OKR-Estrategico-Template.md",
+    "Assets/navibi-8-estilos-culturais-harvard.png",
+    "02 - Analises Executivas/AI - Analise Executiva/2026-04-14 - AI - Analise Executiva.md",
+    "02 - Analises Executivas/AI - Analise Executiva/2026-04-11 - AI - Analise Executiva.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Liberar-Talentos/Gerências da Empresa/Tecnologia - Gerência.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Liberar-Talentos/Gerências da Empresa/Diretoria.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Liberar-Talentos/Gerências da Empresa/Corporativo.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Atrair-Talentos/Colaboradores/TI - Gabriel Tavares- Colaborador.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Atrair-Talentos/Colaboradores/RH - Bruna Pires - Colaborador.md",
+    "01 - NaviBI - ExA Hive/2 - Pessoas Exponenciais/2.3 - Gestão Pessoas/Atrair-Talentos/Colaboradores/CEO - Maycon Pires - Colaborador.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧮Canvas - Estrategia ExA.canvas",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Proposta Valor.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Matriz SWOT.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Modelo de Negócios.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Análise Pestel.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - Analise Produtos e Serviços.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧭PET - 5 Forças Porter.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🎭PET - Estilo Cultural.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/♕PET-2026 - Direção Estratégica.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/2026-OKR-Tatico/🎯OKR-2026-OKR-Tático-4-Muralha-Financeira.md",
+    "01 - NaviBI - ExA Hive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas"
+  ]
+}

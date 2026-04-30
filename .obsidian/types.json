@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "empresa": "text",
+    "status": "multitext",
+    "ultima-atualizacao": "date",
+    "responsavel": "multitext",
+    "progresso": "number",
+    "confianca": "multitext"
+  }
+}
