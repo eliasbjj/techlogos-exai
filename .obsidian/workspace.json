@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
+                "file": "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧮Canvas - Estrategia ExA.canvas",
                 "viewState": {
-                  "x": -550,
-                  "y": 610,
-                  "zoom": -0.9795242796205889
+                  "x": -296.811675469866,
+                  "y": 246.3299467878511,
+                  "zoom": -0.21686374922714652
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "🧮Dashboard-OKR-2026"
+              "title": "🧮Canvas - Estrategia ExA"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "d8b04cabd94dcca2",
@@ -183,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 663.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +203,7 @@
   },
   "active": "8390eab6ee557d22",
   "lastOpenFiles": [
+    "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/♕PET-2026 - Direção Estratégica.md",
     "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Planejamento Negócios & Estratégico/🧮Canvas - Estrategia ExA.canvas",
     "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/🧮Dashboard-OKR-2026.canvas",
     "hive-exa-ai-ecosystem/01-Turbineduca-ExAHive/1 - Estratégia Executiva/1.1 - Estratégia ExA/Metas, Inovação & Indicadores/Metas/2026-Metas/📊OKR-2026-OKR-Estratégica-Lista.md",

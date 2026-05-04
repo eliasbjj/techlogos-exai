@@ -15,13 +15,13 @@ tags:
   - planejamento-estrategico
 ---
 
-# ♕ PET {{Ano}} - Direção Estratégica
+# ♕ PET 2026 - Direção Estratégica
 
 ### **Empresa**: {{Empresa}}
 
 ---
 
-**PMT - Propósito**: {{Propósito maior transformador}}
+**PMT - Propósito**: Segurança que move o futuro
 
 **Propósito Estratégico:** **{{Meta estratégica principal}}**
 
